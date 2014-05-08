@@ -19,7 +19,7 @@ Qualification Round
 * C_: Minesweeper Master
 * D_: Deceitful War
 
-.. _A: A
-.. _B: B
-.. _C: C
-.. _D: D
+.. _A: Qualification/A
+.. _B: Qualification/B
+.. _C: Qualification/C
+.. _D: Qualification/D
