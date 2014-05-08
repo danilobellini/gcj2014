@@ -1,0 +1,100 @@
+Case #1: 42 
+Case #2: Fegla Won 
+Case #3: Fegla Won 
+Case #4: 14 
+Case #5: Fegla Won 
+Case #6: 64 
+Case #7: 0 
+Case #8: Fegla Won 
+Case #9: 23 
+Case #10: 12 
+Case #11: 41 
+Case #12: 1 
+Case #13: 25 
+Case #14: Fegla Won 
+Case #15: 59 
+Case #16: 25 
+Case #17: Fegla Won 
+Case #18: 46 
+Case #19: 68 
+Case #20: Fegla Won 
+Case #21: Fegla Won 
+Case #22: 67 
+Case #23: 51 
+Case #24: 54 
+Case #25: Fegla Won 
+Case #26: Fegla Won 
+Case #27: 9 
+Case #28: 88 
+Case #29: Fegla Won 
+Case #30: Fegla Won 
+Case #31: 55 
+Case #32: 196 
+Case #33: 10 
+Case #34: 12 
+Case #35: 19 
+Case #36: 20 
+Case #37: 14 
+Case #38: 28 
+Case #39: Fegla Won 
+Case #40: 0 
+Case #41: 99 
+Case #42: 49 
+Case #43: 55 
+Case #44: 24 
+Case #45: 51 
+Case #46: 53 
+Case #47: 31 
+Case #48: 26 
+Case #49: 24 
+Case #50: 38 
+Case #51: 60 
+Case #52: Fegla Won 
+Case #53: 0 
+Case #54: Fegla Won 
+Case #55: Fegla Won 
+Case #56: Fegla Won 
+Case #57: 93 
+Case #58: Fegla Won 
+Case #59: Fegla Won 
+Case #60: 19 
+Case #61: 62 
+Case #62: Fegla Won 
+Case #63: Fegla Won 
+Case #64: 0 
+Case #65: 5 
+Case #66: 55 
+Case #67: Fegla Won 
+Case #68: 63 
+Case #69: Fegla Won 
+Case #70: 2 
+Case #71: 18 
+Case #72: 15 
+Case #73: Fegla Won 
+Case #74: 66 
+Case #75: Fegla Won 
+Case #76: Fegla Won 
+Case #77: Fegla Won 
+Case #78: Fegla Won 
+Case #79: 49 
+Case #80: Fegla Won 
+Case #81: 33 
+Case #82: 0 
+Case #83: 45 
+Case #84: 0 
+Case #85: 47 
+Case #86: Fegla Won 
+Case #87: 21 
+Case #88: Fegla Won 
+Case #89: Fegla Won 
+Case #90: 3 
+Case #91: 41 
+Case #92: Fegla Won 
+Case #93: 39 
+Case #94: 51 
+Case #95: 31 
+Case #96: 56 
+Case #97: 68 
+Case #98: 37 
+Case #99: 16 
+Case #100: Fegla Won 
