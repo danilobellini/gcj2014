@@ -14,12 +14,13 @@ to this repository, renamed to match the input file used to create them.
 Qualification Round
 -------------------
 
-* A_: Magic Trick
-* B_: Cookie Clicker Alpha
-* C_: Minesweeper Master
-* D_: Deceitful War
+* `A <Qualification/A>`__: Magic Trick
+* `B <Qualification/B>`__: Cookie Clicker Alpha
+* `C <Qualification/C>`__: Minesweeper Master
+* `D <Qualification/D>`__: Deceitful War
 
-.. _A: Qualification/A
-.. _B: Qualification/B
-.. _C: Qualification/C
-.. _D: Qualification/D
+
+Round 1B
+--------
+
+* `A <Round1B/A>`__: The Repeater
